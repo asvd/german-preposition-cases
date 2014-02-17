@@ -2,5 +2,4 @@ german-preposition-cases
 ========================
 
 
-f
-learn cases following german prepositions
+a small tool for learning german prepositions and cases following
