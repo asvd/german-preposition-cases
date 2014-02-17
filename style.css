@@ -1,0 +1,76 @@
+body {
+    background-color : #DDEEFF;
+}
+
+div.button {
+    background-color : #aabbcc;
+    position : absolute;
+    text-align : center;
+    display: table;    
+}
+
+.buttonContent {
+    cursor : default;
+    color : #112233;
+    display: table-cell;
+    vertical-align: middle;
+    font-family : sans;
+    font-size : 14pt;
+}
+
+.hoverable:hover.selected {
+    background-color : #AFD0F2;
+}
+
+.hoverable:hover {
+    background-color : #bbccdd;
+}
+
+div.selected {
+    background-color : #97C3EF;
+}
+
+div.wrong {
+    background-color : #cc5566;
+}
+
+div.correct {
+    background-color : #88cc99;
+}
+
+div.answer {
+    outline : 3px solid #11cc66;
+}
+
+div.preposition {
+    top : 5%;
+    left : 15%;
+    width : 70%;
+    height : 20%;
+}
+
+div.case {
+    top : 30%;
+    width : 20%;
+    height : 20%;
+}
+
+div.accusative {
+    left : 15%;
+}
+
+div.dative {
+    left : 40%;
+}
+
+div.genetive {
+    left : 65%;
+}
+
+div.select {
+    top : 55%;
+    left : 15%;
+    width : 70%;
+    height : 20%;
+}
+
